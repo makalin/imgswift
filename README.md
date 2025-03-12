@@ -118,5 +118,3 @@ Pull requests welcome! Please include tests and update this README if adding new
 
 ---
 Built with ❤️ using Rust by makalin
-
-You can modify it further based on your specific needs (e.g., adding a logo, changing the license, or including more detailed contribution guidelines). Let me know if you'd like any specific additions or changes!
