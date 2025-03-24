@@ -1,5 +1,7 @@
 # ImgSwift
 
+![ImgSwift Logo](imgswift_logo.png)
+
 ImgSwift is a fast, efficient command-line image processing tool written in Rust for macOS. It provides simple commands for resizing images, changing DPI, converting formats, and compressing JPEG files.
 
 ## Features
